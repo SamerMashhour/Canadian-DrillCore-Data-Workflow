@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "Canadian Drill-Core Data Workflow"
+message: "If you use this workflow, please cite this software release and the underlying public geoscience sources listed in the source registry."
+type: software
+authors:
+  - name: "Samer Mashhour"
+version: "0.4.0-public"
+date-released: "2026-09-03"
+license: MIT
+abstract: >-
+  Independent workflow for provenance-preserving drill-core data readiness,
+  geological/geochemical integration, and leakage-controlled classification
+  benchmarking using public Ontario Midcontinent Rift data.
+keywords:
+  - drill core
+  - geochemistry
+  - data integration
+  - machine learning
+  - Ni-Cu-PGE
+  - Midcontinent Rift
+  - digital core

@@ -1,0 +1,16 @@
+{
+  "project_title": "Canadian Drill-Core Data Workflow",
+  "release": "v0.4.0-public",
+  "benchmark_holes": 10,
+  "lithology_interval_rows": 403,
+  "assay_samples": 453,
+  "assay_results": 1527,
+  "regional_samples": 121,
+  "regional_geochemical_results": 8486,
+  "harmonized_analytical_records": 10013,
+  "exact_sample_lithology_assignments": 345,
+  "exact_integrated_downhole_samples": 167,
+  "integrated_downhole_holes": 5,
+  "supervised_benchmark_holes": 4,
+  "supervised_tasks": 2
+}

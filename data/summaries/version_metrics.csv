@@ -1,0 +1,5 @@
+version,focus,benchmark_holes,lithology_rows,assay_samples,assay_results,regional_samples,harmonized_records,exact_integrated_samples,supervised_holes,status
+v0.1.1 FINAL,source readiness / provenance,10,,,,,,,,frozen
+v0.2 RC2,PDF interval / assay reconstruction + QC,10,403,453,1527,,,,,pdf_complete_rc
+v0.3 FINAL,regional + downhole integration,10,403,453,1527,121,10013,167,,frozen
+v0.4 FINAL,frozen whole-hole classification benchmark,10,403,453,1527,121,10013,167,4,frozen

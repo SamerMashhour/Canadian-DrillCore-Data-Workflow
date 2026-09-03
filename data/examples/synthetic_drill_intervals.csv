@@ -1,0 +1,8 @@
+hole_id,from_m,to_m,lithology,source_id
+EX-01,0.0,20.0,overburden,SRC-SYNTH
+EX-01,20.0,55.0,gabbro,SRC-SYNTH
+EX-01,55.0,70.0,diabase,SRC-SYNTH
+EX-01,70.0,100.0,gabbro,SRC-SYNTH
+EX-02,0.0,35.0,sedimentary,SRC-SYNTH
+EX-02,35.0,60.0,magnetite_skarn,SRC-SYNTH
+EX-02,60.0,100.0,mafic_intrusive,SRC-SYNTH

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="520" viewBox="0 0 980 520">
+<rect width="100%" height="100%" fill="white"/>
+<text x="490" y="42" text-anchor="middle" font-size="28" font-family="Arial" fill="#16324F">Project progression metrics</text>
+<text x="490" y="70" text-anchor="middle" font-size="15" font-family="Arial" fill="#475569">Key quantitative milestones across v0.1 to v0.4</text>
+<rect x="35" y="165" width="190" height="150" rx="14" fill="#DBEAFE" stroke="#2563EB" stroke-width="2"/>
+<text x="130" y="198" text-anchor="middle" font-size="20" font-family="Arial" font-weight="bold" fill="#16324F">v0.1.1 FINAL</text>
+<text x="130" y="235" text-anchor="middle" font-size="16" font-family="Arial" fill="#334155">10 benchmark holes</text>
+<text x="130" y="260" text-anchor="middle" font-size="16" font-family="Arial" fill="#334155">source registry</text>
+<text x="130" y="285" text-anchor="middle" font-size="16" font-family="Arial" fill="#334155">schema + QC rules</text>
+<rect x="275" y="165" width="190" height="150" rx="14" fill="#FEF3C7" stroke="#D97706" stroke-width="2"/>
+<text x="370" y="198" text-anchor="middle" font-size="20" font-family="Arial" font-weight="bold" fill="#16324F">v0.2 RC2</text>
+<text x="370" y="235" text-anchor="middle" font-size="16" font-family="Arial" fill="#334155">403 intervals</text>
+<text x="370" y="260" text-anchor="middle" font-size="16" font-family="Arial" fill="#334155">453 assay samples</text>
+<text x="370" y="285" text-anchor="middle" font-size="16" font-family="Arial" fill="#334155">1,527 assay results</text>
+<rect x="515" y="165" width="190" height="150" rx="14" fill="#DCFCE7" stroke="#16A34A" stroke-width="2"/>
+<text x="610" y="198" text-anchor="middle" font-size="20" font-family="Arial" font-weight="bold" fill="#16324F">v0.3 FINAL</text>
+<text x="610" y="235" text-anchor="middle" font-size="16" font-family="Arial" fill="#334155">121 regional samples</text>
+<text x="610" y="260" text-anchor="middle" font-size="16" font-family="Arial" fill="#334155">10,013 harmonized records</text>
+<text x="610" y="285" text-anchor="middle" font-size="16" font-family="Arial" fill="#334155">167 exact integrated</text>
+<rect x="755" y="165" width="190" height="150" rx="14" fill="#EDE9FE" stroke="#7C3AED" stroke-width="2"/>
+<text x="850" y="198" text-anchor="middle" font-size="20" font-family="Arial" font-weight="bold" fill="#16324F">v0.4 FINAL</text>
+<text x="850" y="235" text-anchor="middle" font-size="16" font-family="Arial" fill="#334155">4 supervised holes</text>
+<text x="850" y="260" text-anchor="middle" font-size="16" font-family="Arial" fill="#334155">2 frozen tasks</text>
+<text x="850" y="285" text-anchor="middle" font-size="16" font-family="Arial" fill="#334155">whole-hole validation</text>
+<line x1="225" y1="240" x2="275" y2="240" stroke="#64748B" stroke-width="3"/><polygon points="265,234 275,240 265,246" fill="#64748B"/>
+<line x1="465" y1="240" x2="515" y2="240" stroke="#64748B" stroke-width="3"/><polygon points="505,234 515,240 505,246" fill="#64748B"/>
+<line x1="705" y1="240" x2="755" y2="240" stroke="#64748B" stroke-width="3"/><polygon points="745,234 755,240 745,246" fill="#64748B"/>
+<text x="490" y="405" text-anchor="middle" font-size="16" font-family="Arial" fill="#475569">provenance → interval reconstruction → regional integration → grouped classification benchmark</text>
+<text x="490" y="440" text-anchor="middle" font-size="14" font-family="Arial" fill="#64748B">Frozen stages are preserved rather than silently overwritten when new source information becomes available.</text>
+</svg>
