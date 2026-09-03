@@ -5,6 +5,7 @@ import re
 import sys
 
 ROOT = Path(__file__).resolve().parents[1]
+SELF = Path(__file__).resolve()
 
 TEXT_SUFFIXES = {
     ".md", ".py", ".json", ".csv", ".yml", ".yaml", ".toml",
@@ -28,7 +29,7 @@ DISALLOWED_PUBLIC_SUFFIXES = {".zip", ".sqlite", ".db", ".xlsx", ".xls"}
 
 def iter_text_files():
     for path in ROOT.rglob("*"):
-        if not path.is_file():
+        if not path.is_file() or path.resolve() == SELF:
             continue
         if ".git" in path.parts or ".venv" in path.parts or "__pycache__" in path.parts:
             continue
