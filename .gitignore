@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local source data and private archives
+/data/external/
+/data/raw/
+/private/
+*.sqlite
+*.db
+*.mdb
+*.accdb
+*.las
+*.zip
+
+# Original third-party geoscience files
+*.pdf
+*.xlsx
+*.xls
