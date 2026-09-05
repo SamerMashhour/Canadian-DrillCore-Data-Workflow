@@ -91,7 +91,7 @@ They use small synthetic tables plus compact public summary products to demonstr
 - No random interval train/test splitting in the frozen benchmark.
 - No target label derived from the same assay variables used to predict that label.
 - No hyperparameter optimization against held-out benchmark holes.
-- Censored values retain qualifier/detection-limit semantics; they are not silently replaced by half the detection limit.
+- Censored values retain qualifier/detection-limit semantics.
 - Unit harmonization is **not** treated as analytical-method equivalence.
 - No 3-D borehole trajectories are reconstructed where survey data are incomplete.
 - No v0.4 model is claimed to perform ore targeting, prospectivity ranking, or deposit ranking.
